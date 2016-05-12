@@ -24,7 +24,7 @@ public class TestIntStream {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		new TestIntStream().testIntStream();
-		new TestIntStream().testIntStream2();;
+		new TestIntStream().testIntStream2();
 	}
 
 }
