@@ -1,5 +1,6 @@
 package myJava.learningJava;
 
-public interface MyFunctionalInterface {
-	public void action(String str);
+@FunctionalInterface
+public interface MyFunctionalInterface<T>{
+	public void acept(String str);
 }
